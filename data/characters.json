@@ -2,7 +2,7 @@
 
 {
   "Pilgrim": [
-    { "name": "Red Hood", "image": "./characters/Pilgrim/RedHoodwebp"},
+    { "name": "Red Hood", "image": "./characters/Pilgrim/RedHood.webp"},
     { "name": "Dorothy", "image": "./characters/Pilgrim/Dorothy.webp" },
     { "name": "Harran", "image": "./characters/Pilgrim/Harran.webp" },
     { "name": "Isabel", "image": "./characters/Pilgrim/Isabel.webp" },
@@ -95,7 +95,7 @@
   ],
 
   "Limited": [
-    {"name": "Redhood", "image": "./characters/Pilgrim/Redhood.webp", "currentBanner": false},
+    {"name": "Redhood", "image": "./characters/Pilgrim/RedHood.webp", "currentBanner": false},
     {"name": "Modernia", "image": "./characters/Pilgrim/Modernia.webp", "currentBanner": false},
     {"name": "AnisSS", "image": "./characters/Limited/Anis_Summer.webp", "currentBanner": false},
     {"name": "HelmAquamarine", "image": "./characters/Limited/Helm_Aquamarine.webp", "currentBanner": false},
