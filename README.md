@@ -1,5 +1,6 @@
 # nikke-gacha-sim
-
+Forked from Spelljinxer (https://github.com/Spelljinxer/nikke-gacha-sim). Only forked to add RedHood into the Pilgrim character pool to feed 1 yr anni gambling addiction.
+////
 A website to simulate gacha pulls based on NIKKE. This simulator allows you to simulate gacha pulls and manage character inventory (WIP).
 It provides functionality for both single pulls and 10-pull gacha draws. 
 
